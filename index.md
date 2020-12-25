@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Sideloaded Apps
 
-You can use the [editor on GitHub](https://github.com/vpena0922/SideloadedApps/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Instagram (Rhino)](https://install.appcenter.ms/users/vpena09/apps/instagram/distribution_groups/beta%20testers)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[MediaBox HD](https://install.appcenter.ms/users/vpena09/apps/mediabox-hd/distribution_groups/beta%20testers)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vpena0922/SideloadedApps/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[ZiniTevi](https://zinitevi.github.io/movieapps/#install-app-for-ios)
+* Make sure you have TestFlight [TestFlight](https://apps.apple.com/us/app/testflight/id899247664) installed from the App Store
+* Click "Download ZiniTevi (No Revoke)"
