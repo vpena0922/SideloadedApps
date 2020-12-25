@@ -1,6 +1,5 @@
 ---
 title: Sideloaded Apps
-type: project
 ---
 
 ## Sideloaded Apps
