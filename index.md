@@ -6,4 +6,4 @@
 
 [ZiniTevi](https://zinitevi.github.io/movieapps/#install-app-for-ios)
 * Make sure you have TestFlight [TestFlight](https://apps.apple.com/us/app/testflight/id899247664) installed from the App Store
-* Click <img src="/images/ZiniTevi_iOS_button.png" width="150">
+* Click ![](/images/ios-app-signer/screenshots/howto-1.png)
