@@ -1,8 +1,4 @@
----
-title: Sideloaded Apps
----
-
-## Sideloaded Apps Test
+## Sideloaded Apps
 
 [Instagram (Rhino)](https://install.appcenter.ms/users/vpena09/apps/instagram/distribution_groups/beta%20testers)
 
