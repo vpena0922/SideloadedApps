@@ -1,6 +1,6 @@
 ## List of Apps
 
-[Instagram (Rhino)](https://install.appcenter.ms/users/vpena09/apps/instagram/distribution_groups/beta%20testers)
+[Instagram](https://install.appcenter.ms/users/vpena09/apps/instagram/distribution_groups/beta%20testers)
 
 [MediaBox HD](https://install.appcenter.ms/users/vpena09/apps/mediabox-hd/distribution_groups/beta%20testers)
 
